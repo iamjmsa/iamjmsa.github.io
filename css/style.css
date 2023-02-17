@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+}
+body {
+    background-color:  #1a1a1a;
+}
+.mer-bg-color {
+    background-color: #242424;
+}
